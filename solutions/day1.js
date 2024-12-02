@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 //16:32
-const input = fs.readFileSync('../input/day1.txt', 'utf-8').split('\n');
+const input = fs.readFileSync('input/day1.txt', 'utf-8').split('\n');
 
 const rightArr = new Array();
 const leftArr = new Array();

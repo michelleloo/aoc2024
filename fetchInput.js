@@ -1,7 +1,7 @@
 
 
 import fetch from 'node-fetch';
-import fs from 'fs/promises'; // Use promises version of fs
+import fs from 'fs/promises';
 
 import dotenv from 'dotenv';
 dotenv.config();
