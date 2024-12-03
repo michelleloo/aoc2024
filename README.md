@@ -5,7 +5,7 @@ This project contains my solutions to the [Advent of Code 2024](https://adventof
 
 ## 🚀 Project Overview
 
-This repository is implemented entirely in **Javascript**, showcasing solutions that focus on clarity, efficiency, and leveraging modern JavaScript features. (I like to be able to read my solutions again)
+This repository is implemented in **Javascript**, showcasing solutions that focus on clarity, efficiency, and leveraging modern JavaScript features. (I like to be able to read my solutions again)
 
 ## 📂 Repository Structure
 
